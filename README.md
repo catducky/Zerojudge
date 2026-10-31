@@ -7,6 +7,12 @@
 - `solutions/`：依題號建立資料夾，例如 `solutions/a001/`。
 - 每題可放程式檔與 `README.md`，記錄題目連結、解題思路及複雜度。
 
+## 解題紀錄
+
+| 題號 | 題目 | 解法 | 程式 | 題解 |
+| --- | --- | --- | --- | --- |
+| f608 | [4. 飛黃騰達](https://zerojudge.tw/ShowProblem?problemid=f608) | 排序＋最長非遞減子序列 | [C++](solutions/f608/main.cpp) | [README](solutions/f608/README.md) |
+
 ## 從本機同步
 
 在 PowerShell 執行：
