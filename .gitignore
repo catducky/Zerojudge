@@ -1,0 +1,23 @@
+# Compiled files and local caches
+*.exe
+*.o
+*.obj
+*.out
+*.class
+__pycache__/
+*.py[cod]
+
+# Local environments and generated output
+.venv/
+venv/
+build/
+dist/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
